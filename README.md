@@ -62,3 +62,6 @@ An Amazon Kinesis Firehose is a web service used to deliver real-time streaming 
 
 ## Differences between horizontal scaling and vertical scaling?
 Vertical scaling means scaling the compute power such as CPU, RAM to your existing machine while horizontal scaling means adding more machines to your server or database. Horizontal scaling means increasing the number of nodes, and distributing the tasks among different nodes.
+
+## How long can an AWS Lambda function execute?
+The complete execution will be finish within 300 seconds from placing the user calls to AWS lambda. 3 seconds will be considered as default time out and you can able to set any timeout value between 1 to 300 seconds.
