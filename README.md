@@ -24,3 +24,10 @@ It also allows you to provide access to the resources to users and applications 
 ## What is auto-scaling?
 Auto-scaling is a function that allows you to provision and launch new instances whenever there is a demand. It allows you to automatically increase or decrease resource capacity in relation to the demand.
 
+## Name some of the AWS services that are not region-specific
+AWS services that are not region-specific are:
+
+* IAM
+* Route 53
+* Web Application Firewall 
+* CloudFront
