@@ -31,3 +31,9 @@ AWS services that are not region-specific are:
 * Route 53
 * Web Application Firewall 
 * CloudFront
+
+## What is the difference between an IAM role and an IAM user?
+The two key differences between the IAM role and IAM user are:
+
+* An IAM role is an IAM entity that defines a set of permissions for making AWS service requests, while an IAM user has permanent long-term credentials and is used to interact with the AWS services directly.  
+* In the IAM role, trusted entities, like IAM users, applications, or an AWS service, assume roles whereas the IAM user has full access to all the AWS IAM functionalities.
