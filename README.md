@@ -56,3 +56,6 @@ The minimum size of an object that you can store in S3 is 0 bytes and the maximu
 
 ## What is the default storage class in S3?
 The default storage class is Standard Frequently Accessed.
+
+## What is Amazon Kinesis Firehose?
+An Amazon Kinesis Firehose is a web service used to deliver real-time streaming data to destinations such as Amazon Simple Storage Service, Amazon Redshift, etc.
