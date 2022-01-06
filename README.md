@@ -65,3 +65,6 @@ Vertical scaling means scaling the compute power such as CPU, RAM to your existi
 
 ## How long can an AWS Lambda function execute?
 The complete execution will be finish within 300 seconds from placing the user calls to AWS lambda. 3 seconds will be considered as default time out and you can able to set any timeout value between 1 to 300 seconds.
+
+## How does AWS Lambda secure my code?
+In AWS Lambda, the user codes can be stored in the Amazon S3, and later the code can be encrypted with suitable methods. AWS Lambda is used to perform extra data integrity check when the code is running.
