@@ -59,3 +59,6 @@ The default storage class is Standard Frequently Accessed.
 
 ## What is Amazon Kinesis Firehose?
 An Amazon Kinesis Firehose is a web service used to deliver real-time streaming data to destinations such as Amazon Simple Storage Service, Amazon Redshift, etc.
+
+## Differences between horizontal scaling and vertical scaling?
+Vertical scaling means scaling the compute power such as CPU, RAM to your existing machine while horizontal scaling means adding more machines to your server or database. Horizontal scaling means increasing the number of nodes, and distributing the tasks among different nodes.
