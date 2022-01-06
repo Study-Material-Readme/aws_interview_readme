@@ -21,4 +21,6 @@ AWS IAM enables an administrator to provide granular level access to different u
 
 It also allows you to provide access to the resources to users and applications without creating the IAM Roles, which is known as Federated Access.
 
+## What is auto-scaling?
+Auto-scaling is a function that allows you to provision and launch new instances whenever there is a demand. It allows you to automatically increase or decrease resource capacity in relation to the demand.
 
