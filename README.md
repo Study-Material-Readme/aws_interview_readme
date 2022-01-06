@@ -40,3 +40,6 @@ The two key differences between the IAM role and IAM user are:
 
 ## How many buckets can you create in AWS by default?
 By default, you can create up to 100 buckets in each of your AWS accounts.
+
+## What is AWS Lambda?
+Lambda is an Amazon compute service which allows you to run code in the  AWS Cloud without managing servers.
