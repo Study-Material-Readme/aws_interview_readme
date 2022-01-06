@@ -43,3 +43,10 @@ By default, you can create up to 100 buckets in each of your AWS accounts.
 
 ## What is AWS Lambda?
 Lambda is an Amazon compute service which allows you to run code in the  AWS Cloud without managing servers.
+
+## Name some of the DB engines which can be used in AWS RDS
+* MS-SQL DB
+* MariaDB
+* MYSQL DB
+* OracleDB
+* PostgreDB
