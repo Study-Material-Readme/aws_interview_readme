@@ -68,3 +68,10 @@ The complete execution will be finish within 300 seconds from placing the user c
 
 ## How does AWS Lambda secure my code?
 In AWS Lambda, the user codes can be stored in the Amazon S3, and later the code can be encrypted with suitable methods. AWS Lambda is used to perform extra data integrity check when the code is running.
+
+## What are the advantages can we have by using a server-less approach?
+The following are the major advantages of using the Server-less approach;
+
+* Firstly the Serverless approach has simple operations that offer quick time to market and better sale.
+* User needs to only pay for the code when the code is compiling, and many costs can be saved by enhancing the profits.
+* Easy to manage the components of the broader application and have the appropriate additional infrastructure.
