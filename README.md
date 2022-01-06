@@ -53,3 +53,6 @@ Lambda is an Amazon compute service which allows you to run code in the  AWS Clo
 
 ## What is the minimum and maximum size that you can store in S3?
 The minimum size of an object that you can store in S3 is 0 bytes and the maximum size of an object that you can store in S3 is 5 TB.
+
+## What is the default storage class in S3?
+The default storage class is Standard Frequently Accessed.
