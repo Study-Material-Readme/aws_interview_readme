@@ -16,3 +16,9 @@ An AWS Availability Zone is a physical location where an Amazon data center is l
 
 This setup helps your services to be more available as you can place your VMs in different data centers within an AWS Region. If one of the data centers fails in a Region, the client requests still get served from the other data centers located in the same Region. This arrangement, thus, helps your service to be available even if a Data Center goes down.
 
+## What are the advantages of AWS IAM?
+AWS IAM enables an administrator to provide granular level access to different users and groups. Different users and user groups may need different levels of access to different resources created. With IAM, you can create roles with specific access-levels and assign the roles to the users. 
+
+It also allows you to provide access to the resources to users and applications without creating the IAM Roles, which is known as Federated Access.
+
+
