@@ -1,5 +1,3 @@
-# aws_interview_readme
-
 ## What are the Storage Classes available in Amazon S3?
 Storage Classes available with Amazon S3 are:
 
